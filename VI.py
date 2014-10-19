@@ -20,6 +20,7 @@ print("#")
 yes=0
 no=1
 
+print("For a Yes answer type: 0 , For a No answer type:1")
 
 #binarize photo option
 usr_input = input("Would you Like to binarize Your Photo Source? \nPlease Write yes or no:  ") 
